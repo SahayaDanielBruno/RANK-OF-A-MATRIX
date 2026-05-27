@@ -21,7 +21,8 @@ print(soln)
 
 ```
 ## Output:
-<img width="1307" height="878" alt="image" src="https://github.com/user-attachments/assets/f6a0d3c3-1c6f-4629-9e06-1614abf741e6" />
+<img width="377" height="442" alt="image" src="https://github.com/user-attachments/assets/992e7eda-a6af-4222-9387-f381bb8c1c66" />
+
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
